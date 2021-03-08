@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{08B6200C-23C5-496C-AD10-876FE9EC00ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{A94125EC-7744-43E0-988F-B3BCCB1EB399}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.API", "src\Catalog\Catalog.API\Catalog.API.csproj", "{9EB7E3A8-CE7B-4408-B69A-910A58E05A21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{527A6181-B66A-4B92-982F-41FC9E7070A1}"
+	ProjectSection(SolutionItems) = preProject
+		script.txt = script.txt
+	EndProjectSection
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BB8A0230-A9E9-47A3-827F-03076C1C6C9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EB7E3A8-CE7B-4408-B69A-910A58E05A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB7E3A8-CE7B-4408-B69A-910A58E05A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB7E3A8-CE7B-4408-B69A-910A58E05A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB7E3A8-CE7B-4408-B69A-910A58E05A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8A0230-A9E9-47A3-827F-03076C1C6C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8A0230-A9E9-47A3-827F-03076C1C6C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8A0230-A9E9-47A3-827F-03076C1C6C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8A0230-A9E9-47A3-827F-03076C1C6C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A94125EC-7744-43E0-988F-B3BCCB1EB399} = {08B6200C-23C5-496C-AD10-876FE9EC00ED}
+		{9EB7E3A8-CE7B-4408-B69A-910A58E05A21} = {A94125EC-7744-43E0-988F-B3BCCB1EB399}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C22F69-D5A6-4E92-AAC5-4FCE74129AAA}
+	EndGlobalSection
+EndGlobal
