@@ -48,3 +48,7 @@ D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\Swashbuckle.As
 D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\MicroservicesApp\src\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.MvcApplicationPartsAssemblyInfo.cs
+D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
