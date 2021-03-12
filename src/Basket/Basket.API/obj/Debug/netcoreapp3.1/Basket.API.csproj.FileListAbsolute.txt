@@ -52,3 +52,5 @@ D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\RabbitMQ.Clien
 D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
 D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
 D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
+D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

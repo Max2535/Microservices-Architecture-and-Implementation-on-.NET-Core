@@ -36,3 +36,4 @@ D:\MicroservicesApp\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.
 D:\MicroservicesApp\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.dll
 D:\MicroservicesApp\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.pdb
 D:\MicroservicesApp\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.genruntimeconfig.cache
+D:\MicroservicesApp\src\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csprojAssemblyReference.cache
